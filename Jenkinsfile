@@ -18,7 +18,7 @@ pipeline {
 
         stage('Build Docker Image') {
             steps {
-                sh 'docker build -t smsagar6/mavenkb8:latest .'
+                sh 'docker build -t smsagar6/maven:latest .'
             }
         }
 
@@ -36,7 +36,7 @@ pipeline {
 
         stage('Push Docker Image') {
             steps {
-                sh 'docker push smsagar6/mavenkb8:latest'
+                sh 'docker push smsagar6/maven:latest'
             }
         }
     }

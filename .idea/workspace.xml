@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ce30e91-aa0b-4120-ad13-033a27e80fa3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.003018976844049" />
+      <entry key="MS500" value="1.943603846249966" />
+      <entry key="S2" value="5.048593426519784" />
+      <entry key="S5" value="9.993081496050713" />
+      <entry key="S10" value="16.81071564464917" />
+      <entry key="S30" value="29.058303053124746" />
+      <entry key="S60" value="35.340549978904995" />
+      <entry key="M2" value="39.823645753047565" />
+      <entry key="M5" value="43.25985504485071" />
+      <entry key="M10" value="44.577469815330964" />
+      <entry key="M15" value="45.03933784856699" />
+      <entry key="M30" value="45.51334123338682" />
+      <entry key="H1" value="45.75505514845922" />
+      <entry key="H2" value="45.87711941987183" />
+      <entry key="H4" value="45.93845712942984" />
+      <entry key="D1" value="45.989728561334324" />
+      <entry key="W1" value="45.99853230096721" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.548047204923442E-97" />
+      <entry key="MS500" value="5.1285887793820675E-20" />
+      <entry key="S2" value="1.5048716804403044E-5" />
+      <entry key="S5" value="0.011776053980924852" />
+      <entry key="S10" value="0.1085175284501303" />
+      <entry key="S30" value="0.4769797752737789" />
+      <entry key="S60" value="0.6906372240719282" />
+      <entry key="M2" value="0.8310458615936477" />
+      <entry key="M5" value="0.9286455809969704" />
+      <entry key="M10" value="0.9636625866956605" />
+      <entry key="M15" value="0.9756259249753867" />
+      <entry key="M30" value="0.9877377814862527" />
+      <entry key="H1" value="0.9938499793662291" />
+      <entry key="H2" value="0.9969202472445966" />
+      <entry key="H4" value="0.9984589361834552" />
+      <entry key="D1" value="0.9997429909530259" />
+      <entry key="W1" value="0.9999632803771169" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.975591369763586" />
+      <entry key="MS500" value="1.932769975573118" />
+      <entry key="S2" value="5.041090032083563" />
+      <entry key="S5" value="9.996090511593499" />
+      <entry key="S10" value="16.90153090066557" />
+      <entry key="S30" value="29.512245766248277" />
+      <entry key="S60" value="36.01348487652971" />
+      <entry key="M2" value="40.643133053733806" />
+      <entry key="M5" value="44.18290922465538" />
+      <entry key="M10" value="45.53813447250499" />
+      <entry key="M15" value="46.01291643837416" />
+      <entry key="M30" value="46.50002995844624" />
+      <entry key="H1" value="46.74837405022838" />
+      <entry key="H2" value="46.873772464895325" />
+      <entry key="H4" value="46.93678204533587" />
+      <entry key="D1" value="46.98944915707333" />
+      <entry key="W1" value="46.99849238059165" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GdJjAqcz0wvVjuZxD6syR7FzJh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/sagar/IdeaProjects/mavenn/src/main/java/org/example/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.258" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.258" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ce30e91-aa0b-4120-ad13-033a27e80fa3" name="Changes" comment="" />
+      <created>1784295648082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784295648082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
